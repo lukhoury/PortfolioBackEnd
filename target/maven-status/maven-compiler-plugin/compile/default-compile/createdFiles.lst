@@ -25,6 +25,7 @@ com\Portfolio\lucrecia\Security\jwt\JwtEntryPoint.class
 com\Portfolio\lucrecia\Entity\hys.class
 com\Portfolio\lucrecia\Security\Entity\Usuario.class
 com\Portfolio\lucrecia\Security\jwt\JwtTokenFilter.class
+com\Portfolio\lucrecia\WebConfig.class
 com\Portfolio\lucrecia\Entity\Experiencia.class
 com\Portfolio\lucrecia\Security\jwt\JwtProvider.class
 com\Portfolio\lucrecia\Security\Enums\RolNombre.class
