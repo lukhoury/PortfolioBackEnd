@@ -20,7 +20,7 @@ public class Rol {
     private int id;
     
     @NotNull
-    @Enumerated(EnumType.STRING)  //define los valores a ingresar
+    @Enumerated(EnumType.STRING)  //define los valores a ingresar, solo alfanumericos
     private RolNombre rolNombre;
     
     //constructor
