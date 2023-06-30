@@ -4,7 +4,6 @@
 
 FROM amazoncorretto:17-alpine-jdk
 
-CMD ["/bin/sh"]
 
 
 MAINTAINER Lucrecia Khoury
