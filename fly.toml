@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for green-shadow-4507 on 2023-06-29T19:08:13-03:00
+# fly.toml app configuration file generated for little-sunset-4099 on 2023-06-29T21:39:20-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "green-shadow-4507"
+app = "little-sunset-4099"
 primary_region = "eze"
 
 [http_service]
